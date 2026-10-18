@@ -104,7 +104,7 @@
             Cache = @{}; Index = @{}; ControllerMap = @{}
             Controllers = @(); Hubs = @(); Devices = @()
         }
-        Z-Title 'ZENY+ USB LATENCY ANALYZER | FINAL EDITION'
+        Z-Title 'ZENY+ USB LATENCY ANALYZER'
         Z-Line '  GAMING USB TOPOLOGY | ESCANEO AUTOMATICO' Green
         Z-Line '  No necesitas desconectar ningun dispositivo.' White
         Z-Line '  El porcentaje refleja el avance del escaneo.' DarkGray
